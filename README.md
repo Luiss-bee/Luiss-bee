@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil
 
-
+Eu não achei nescessario colocar todas aquelas coisas que foi passado no Alura
 **Luiss-bee/Luiss-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
